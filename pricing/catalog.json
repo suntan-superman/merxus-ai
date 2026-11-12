@@ -1,0 +1,143 @@
+{
+  "snapshotDate": "2026-11-11",
+  "trialDays": 30,
+  "displayPlans": {
+    "restaurant": [
+      {
+        "tier": "basic",
+        "label": "Basic",
+        "name": "Merxus AI Restaurant Basic",
+        "features": [
+          "AI Phone Assistant",
+          "Order and reservation taking",
+          "Analytics dashboard",
+          "Customer CRM"
+        ],
+        "subscriptionUnitAmount": 29900,
+        "onboardingUnitAmount": 29900,
+        "currency": "usd"
+      },
+      {
+        "tier": "professional",
+        "label": "Pro",
+        "name": "Merxus AI Restaurant Pro",
+        "features": [
+          "Everything in Basic",
+          "Intelligence",
+          "Customer 360",
+          "Merge Activity",
+          "Toast POS integration"
+        ],
+        "subscriptionUnitAmount": 49900,
+        "onboardingUnitAmount": 49900,
+        "currency": "usd"
+      },
+      {
+        "tier": "elite",
+        "label": "Elite",
+        "name": "Merxus AI Restaurant Elite",
+        "features": [
+          "Everything in Pro",
+          "Reviews and integrations",
+          "Feedback",
+          "Automations",
+          "CX Analytics"
+        ],
+        "subscriptionUnitAmount": 79900,
+        "onboardingUnitAmount": 79900,
+        "currency": "usd"
+      }
+    ],
+    "real_estate": [
+      {
+        "tier": "basic",
+        "label": "Basic",
+        "name": "Merxus AI Real Estate Basic",
+        "features": [
+          "AI Phone Assistant",
+          "Lead capture",
+          "Call routing",
+          "Email notifications"
+        ],
+        "subscriptionUnitAmount": 4900,
+        "onboardingUnitAmount": 4900,
+        "currency": "usd"
+      },
+      {
+        "tier": "professional",
+        "label": "Pro",
+        "name": "Merxus AI Real Estate Pro",
+        "features": [
+          "Everything in Basic",
+          "Intelligence",
+          "Customer 360",
+          "Merge Activity"
+        ],
+        "subscriptionUnitAmount": 9900,
+        "onboardingUnitAmount": 9900,
+        "currency": "usd"
+      },
+      {
+        "tier": "elite",
+        "label": "Elite",
+        "name": "Merxus AI Real Estate Elite",
+        "features": [
+          "Everything in Pro",
+          "Reviews and integrations",
+          "Feedback",
+          "Automations",
+          "CX Analytics"
+        ],
+        "subscriptionUnitAmount": 14900,
+        "onboardingUnitAmount": 14900,
+        "currency": "usd"
+      }
+    ],
+    "office": [
+      {
+        "tier": "basic",
+        "label": "Basic",
+        "name": "Merxus AI Office Basic",
+        "features": [
+          "AI Phone Assistant",
+          "Call routing",
+          "Voicemail transcription",
+          "Email notifications"
+        ],
+        "subscriptionUnitAmount": 4900,
+        "onboardingUnitAmount": 4900,
+        "currency": "usd"
+      },
+      {
+        "tier": "professional",
+        "label": "Pro",
+        "name": "Merxus AI Office Pro",
+        "features": [
+          "Everything in Basic",
+          "Intelligence",
+          "Work Items",
+          "Customer 360",
+          "Merge Activity"
+        ],
+        "subscriptionUnitAmount": 9900,
+        "onboardingUnitAmount": 9900,
+        "currency": "usd"
+      },
+      {
+        "tier": "elite",
+        "label": "Elite",
+        "name": "Merxus AI Office Elite",
+        "features": [
+          "Everything in Pro",
+          "Reviews and integrations",
+          "Feedback",
+          "Automations",
+          "CX Analytics"
+        ],
+        "subscriptionUnitAmount": 14900,
+        "onboardingUnitAmount": 14900,
+        "currency": "usd"
+      }
+    ]
+  }
+}

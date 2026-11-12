@@ -1,0 +1,65 @@
+# This repository publishes the ready-to-serve site files from its root.
+# Keep local settings and credentials out of both Git and the publish folder.
+.env
+.env.*
+*.env
+*.env.*
+*.local
+.npmrc
+.yarnrc
+.yarnrc.yml
+.pypirc
+*.secret
+*.secret.*
+
+# Private keys, account credentials, and mobile signing files.
+**/serviceAccountKey.json
+**/*-firebase-adminsdk-*.json
+**/*service-account*.json
+**/*credentials*.json
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.mobileprovision
+
+# Local tooling and generated output that is not part of the static website.
+.netlify/
+.aws/
+.firebase/
+.vercel/
+.wrangler/
+.cache/
+node_modules/
+dist/
+dist-ssr/
+build/
+functions/
+scripts/
+coverage/
+reports/
+test-results/
+playwright-report/
+logs/
+backup/
+backups/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Editor and operating-system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /checkout/return/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /billing
+Disallow: /restaurant/
+Disallow: /voice/
+Disallow: /estate/
+Sitemap: https://merxus.ai/sitemap.xml
