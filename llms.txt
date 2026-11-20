@@ -1,0 +1,15 @@
+# Merxus AI
+
+Merxus AI is a business communications product that answers inbound calls, captures caller intent and contact details, supports configured appointment or service requests, and helps teams follow up. Capabilities depend on the configured workflow. It is not a substitute for human judgment on urgent or sensitive matters.
+
+## Product pages
+- https://merxus.ai/
+- https://merxus.ai/real-estate/
+- https://merxus.ai/pricing/
+- https://merxus.ai/hear-merxus/
+
+## Guides
+- https://merxus.ai/articles/ai-receptionist-vs-answering-service-vs-hiring/
+- https://merxus.ai/articles/ai-receptionist-for-real-estate-managing-calls-and-property-inquiries/
+
+Pricing and plan details can change; consult the pricing page for current information. The real estate guide does not claim a live MLS connection or guarantee listing availability.
